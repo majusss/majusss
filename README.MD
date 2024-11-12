@@ -3,11 +3,11 @@
 
 <h3>Languages I know:</h3>
 
-![LANGS](https://skillicons.dev/icons?i=js,ts)
+![LANGS](https://skillicons.dev/icons?i=ts,dart,js)
 
 <h3>Frameworks that help me:</h3>
 
-![TOOLS](https://skillicons.dev/icons?i=nextjs,vite,tailwind,electron)
+![TOOLS](https://skillicons.dev/icons?i=flutter,nextjs,vite,tailwind,electron)
 
 <h3>My tools:</h3>
 
